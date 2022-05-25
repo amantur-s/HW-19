@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ea5656f0.css","mappings":"AACA,yBAEI,sCAAwC,CADxC,eAEJ,CCJA,+BACI,iBACJ","sources":["componets/TodoList.module.css","componets/TodoForm.module.css"],"sourcesContent":["\r\n.list li{\r\n    list-style: none;\r\n    font-family:Arial, Helvetica, sans-serif;\r\n}",".todocontainer {\r\n    text-align: center;\r\n}"],"names":[],"sourceRoot":""}
